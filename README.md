@@ -1,6 +1,6 @@
 # WildFly-Standalone-ModCluster
 
-WildFly standalone profile with mod_cluster and Apache, thru multicast implemented by PeerVPN. Developed for run in containers in AWS instances, with location redundance, whtih does not implemets multicast.
+WildFly standalone profile with mod_cluster and Apache, thru multicast implemented by PeerVPN. Developed for run in AWS instances, with location redundance, whtih does not implemets multicast.
 <!--
 ## Getting Started
 
